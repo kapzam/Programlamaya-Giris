@@ -1,0 +1,6 @@
+public class PROGRAM {
+public static void main(String[] args) {
+int saga = 5;
+System.out.println(saga);
+}
+}
